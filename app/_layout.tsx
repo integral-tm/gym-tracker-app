@@ -5,6 +5,7 @@ import { tokenCache } from "@clerk/expo/token-cache";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from "react";
 import "react-native-reanimated";
+import "../global.css";
 
 import { useColorScheme } from "@/components/useColorScheme";
 
